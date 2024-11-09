@@ -2,8 +2,8 @@ import obspython as obs
 import requests
 
 # Plugin settings
-repo_owner = "zombocoder"  # GitHub username
-repo_name = "melodica"  # GitHub repository name
+repo_owner = "repo owner"  # GitHub username
+repo_name = "repo name"  # GitHub repository name
 update_interval = 60 * 1000  # Interval in milliseconds (OBS timer uses ms)
 text_source_name = "GitHub Stars"  # OBS text source name
 access_token = "your_personal_access_token"  # Replace with your GitHub token
